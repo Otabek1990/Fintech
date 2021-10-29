@@ -1,0 +1,95 @@
+.main {
+  position: absolute;
+  width: 1440px;
+  height: 700px;
+  left: 0px;
+  top: 100px;
+  background: url("../../assets/mainImage.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.main .text {
+  position: absolute;
+  width: 508px;
+  height: 202px;
+  left: 100px;
+  top: 248px;
+  font-family: "Oswald", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 56px;
+  line-height: 180%;
+
+  color: #1c1c1c;
+}
+.main .register {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 12px 24px;
+  position: absolute;
+  width: 229px;
+  height: 35px;
+  left: 101px;
+  top: 470px;
+  background: #0ab5f3;
+  border-radius: 5px;
+}
+.main .register p {
+  position: static;
+  width: 181px;
+  height: 28px;
+  left: 24px;
+  top: 12px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 10px;
+}
+.main .line1{
+    position: absolute;
+width: 81px;
+height: 0px;
+left: 95px;
+top: 636px;
+transform: rotate(180deg);
+border: 1px solid #0AB5F3;
+}
+.main .components {
+  position: absolute;
+  width: 144px;
+  height: 28px;
+  left: 186px;
+  top: 620px;
+  display: flex;
+}
+.components .facebook {
+    left: 0%;
+    right: 80.56%;
+    top: 0%;
+    bottom: 0%;
+    cursor: pointer;
+
+}
+.components .instagram {
+    left: 40.28%;
+    right: 40.28%;
+    top: 0%;
+    bottom: 0%;
+    cursor: pointer;
+
+}
+.components .telegram {
+    left: 80.56%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    cursor: pointer;
+
+}
