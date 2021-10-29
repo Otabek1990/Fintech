@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Fintech/static/css/main.3bd36ed6.chunk.css",
+    "main.js": "/Fintech/static/js/main.96fbe622.chunk.js",
+    "main.js.map": "/Fintech/static/js/main.96fbe622.chunk.js.map",
+    "runtime-main.js": "/Fintech/static/js/runtime-main.4ba85ce1.js",
+    "runtime-main.js.map": "/Fintech/static/js/runtime-main.4ba85ce1.js.map",
+    "static/js/2.0698e3e9.chunk.js": "/Fintech/static/js/2.0698e3e9.chunk.js",
+    "static/js/2.0698e3e9.chunk.js.map": "/Fintech/static/js/2.0698e3e9.chunk.js.map",
+    "index.html": "/Fintech/index.html",
+    "static/css/main.3bd36ed6.chunk.css.map": "/Fintech/static/css/main.3bd36ed6.chunk.css.map",
+    "static/js/2.0698e3e9.chunk.js.LICENSE.txt": "/Fintech/static/js/2.0698e3e9.chunk.js.LICENSE.txt",
+    "static/media/Chartspana1.68fbce6f.png": "/Fintech/static/media/Chartspana1.68fbce6f.png",
+    "static/media/Launchingpana1.bbdaa574.png": "/Fintech/static/media/Launchingpana1.bbdaa574.png",
+    "static/media/about.css": "/Fintech/static/media/Map.6a27ccc7.png",
+    "static/media/Revenue.ee45f0b2.png": "/Fintech/static/media/Revenue.ee45f0b2.png",
+    "static/media/Vector1.f25997ff.jpg": "/Fintech/static/media/Vector1.f25997ff.jpg",
+    "static/media/fintechLogo.99b83cff.jpg": "/Fintech/static/media/fintechLogo.99b83cff.jpg",
+    "static/media/main.css": "/Fintech/static/media/mainImage.c4abd470.jpg",
+    "static/media/undraw1.bec5cf80.png": "/Fintech/static/media/undraw1.bec5cf80.png",
+    "static/media/undraw3.cb679a2c.png": "/Fintech/static/media/undraw3.cb679a2c.png",
+    "static/media/undraw6.b77301fe.png": "/Fintech/static/media/undraw6.b77301fe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba85ce1.js",
+    "static/js/2.0698e3e9.chunk.js",
+    "static/css/main.3bd36ed6.chunk.css",
+    "static/js/main.96fbe622.chunk.js"
+  ]
+}
