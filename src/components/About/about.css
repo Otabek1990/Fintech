@@ -1010,7 +1010,7 @@
   cursor: pointer;
 }
 /* RESPONSIVE FOR MOBILE  */
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
   .about {
     width: 375px;
   }

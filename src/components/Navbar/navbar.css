@@ -109,7 +109,7 @@ margin: 0px 10px;
   }
 
   /* FOR PHONE SIZE----------------------------- */
-@media screen  and (max-width:400px){
+@media screen  and (max-width:450px){
   .navbar{
     width: 375px;
     height: 80px;
