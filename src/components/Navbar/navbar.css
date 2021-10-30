@@ -17,6 +17,8 @@
   left: 50px;
   top: 20px;
   cursor: pointer;
+  /* medi */
+
 }
 .navbar .nav_links {
   position: absolute;
@@ -63,4 +65,60 @@
     flex: none;
     order: 0;
     flex-grow: 0;
-    margin: 0px 10px;}
+    margin: 0px 10px;
+  }
+  /* FOR MINI SIZES WIDTH<800----------------------- */
+  .mini_call_btn{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 16px;
+position: absolute;
+width: 136px;
+height: 12px;
+left: 156px;
+top: 24px;
+background: #0AB5F3;
+border-radius: 5px;
+align-items: center;
+  }
+  .mini_call_btn p{
+    position: static;
+width: 124px;
+height: 16px;
+left: 16px;
+top: 8px;
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 16px;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+  }
+  .menu_item{
+    position: absolute;
+    width: 28px;
+    height: 32px;
+    left: 332px;
+    top: 26px;
+    cursor: pointer;
+  }
+
+  /* FOR PHONE SIZE----------------------------- */
+@media screen  and (max-width:400px){
+  .navbar{
+    width: 375px;
+    height: 80px;
+  }
+  .navbar .fintech_logo img{
+    width: 62.6px;
+height: 40px;
+left: 14px;
+margin-left: 1px;
+  }
+
+}

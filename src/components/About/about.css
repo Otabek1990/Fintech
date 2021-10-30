@@ -22,13 +22,10 @@
   font-weight: 500;
   font-size: 42px;
   line-height: 49px;
-
-  /* main */
-
   color: #0ab5f3;
 }
 
-.vector1 img {
+.vector1 {
   position: absolute;
   width: 1043.93px;
   height: 440.62px;
@@ -48,10 +45,6 @@
   font-size: 24px;
   line-height: 150%;
   z-index: 1;
-  /* or 36px */
-
-  /* black */
-
   color: #1c1c1c;
 }
 
@@ -84,19 +77,20 @@
   height: 126px;
   left: 606px;
   top: 1545px;
-
   font-family: "Oswald", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 42px;
   line-height: 150%;
-  /* or 63px */
-
   letter-spacing: 0.01em;
-
-  /* black */
-
   color: #1c1c1c;
+  width: 299px;
+  height: 72px;
+  left: 38px;
+  top: 1047px;
+  font-size: 24px;
+  line-height: 150%;
+  text-align: center;
 }
 .ellipse1 {
   position: absolute;
@@ -127,16 +121,12 @@
   height: 126px;
   left: 320px;
   top: 1878px;
-
   font-family: "Oswald", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 42px;
   line-height: 150%;
-  /* or 63px */
-
   letter-spacing: 0.01em;
-
   color: #1c1c1c;
 }
 .chart_pana {
@@ -159,18 +149,12 @@
   height: 126px;
   left: 606px;
   top: 2222px;
-
   font-family: "Oswald", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 42px;
   line-height: 150%;
-  /* or 63px */
-
   letter-spacing: 0.01em;
-
-  /* black */
-
   color: #1c1c1c;
 }
 .bizning_kurs {
@@ -179,7 +163,6 @@
   height: 49px;
   left: 594px;
   top: 2536px;
-
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -227,9 +210,6 @@
   font-size: 23px;
   line-height: 30px;
   letter-spacing: 0.01em;
-
-  /* main */
-
   color: #0ab5f3;
 }
 .undraw2 {
@@ -263,9 +243,6 @@
   line-height: 30px;
   text-align: center;
   letter-spacing: 0.01em;
-
-  /* main */
-
   color: #0ab5f3;
 }
 .undraw3 {
@@ -282,7 +259,6 @@
   height: 233px;
   left: 947px;
   top: 2752px;
-
   background: #ffffff;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
   border-radius: 10px;
@@ -300,9 +276,6 @@
   line-height: 30px;
   text-align: center;
   letter-spacing: 0.01em;
-
-  /* main */
-
   color: #0ab5f3;
 }
 .undraw4 {
@@ -319,7 +292,6 @@
   height: 233px;
   left: 101px;
   top: 3111px;
-
   background: #ffffff;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
   border-radius: 10px;
@@ -330,16 +302,12 @@
   height: 30px;
   left: 231px;
   top: 3274px;
-
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 23px;
   line-height: 30px;
   letter-spacing: 0.01em;
-
-  /* main */
-
   color: #0ab5f3;
 }
 .undraw5 {
@@ -356,7 +324,6 @@
   height: 233px;
   left: 523px;
   top: 3111px;
-
   background: #ffffff;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
   border-radius: 10px;
@@ -367,7 +334,6 @@
   height: 30px;
   left: 678px;
   top: 3274px;
-
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
@@ -375,9 +341,6 @@
   line-height: 30px;
   text-align: center;
   letter-spacing: 0.01em;
-
-  /* main */
-
   color: #0ab5f3;
 }
 .undraw6 {
@@ -394,7 +357,6 @@
   height: 233px;
   left: 947px;
   top: 3111px;
-
   background: #ffffff;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
   border-radius: 10px;
@@ -423,6 +385,7 @@
   top: 3464px;
   border: 3px solid #0ab5f3;
   transform: rotate(90deg);
+  
 }
 .jarayon {
   position: absolute;
@@ -430,16 +393,13 @@
   height: 49px;
   left: 514px;
   top: 3445px;
-
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 42px;
   line-height: 49px;
-
-  /* main */
-
   color: #0ab5f3;
+
 }
 .rectangle7 {
   position: absolute;
@@ -447,10 +407,10 @@
   height: 223px;
   left: 100px;
   top: 3566px;
-
   background: #ffffff;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
   border-radius: 10px;
+
 }
 .num1 {
   position: absolute;
@@ -465,6 +425,7 @@
   line-height: 150%;
   text-align: center;
   color: #0ab5f3;
+
 }
 .bepul_dars {
   position: absolute;
@@ -472,15 +433,15 @@
   height: 48px;
   left: 145px;
   top: 3685px;
-
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   text-align: center;
-
   color: #000000;
+ 
+
 }
 .ellipse2 {
   position: absolute;
@@ -489,9 +450,9 @@
   left: 323px;
   top: 3653px;
   z-index: 1;
-  /* main */
   border-radius: 50%;
   background: #0ab5f3;
+  
 }
 
 .chevronright1 {
@@ -501,6 +462,7 @@
   left: 333px;
   top: 3662px;
   z-index: 100;
+
 }
 .rectangle8 {
   position: absolute;
@@ -741,6 +703,7 @@
   top: 3910px;
   border: 3px solid #0ab5f3;
   transform: rotate(90deg);
+
 }
 .birinchi_dars {
   position: absolute;
@@ -748,16 +711,13 @@
   height: 49px;
   left: 459px;
   top: 3890px;
-
-  font-family: Roboto;
+  font-family: 'Roboto',sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 42px;
   line-height: 49px;
-
-  /* main */
-
   color: #0ab5f3;
+
 }
 .ismingiz {
   position: absolute;
@@ -916,32 +876,30 @@
 }
 .call_btn {
   display: flex;
-flex-direction: row;
-align-items: flex-start;
-padding: 12px 24px;
-position: absolute;
-width: 229px;
-height: 52px;
-left: 605px;
-top: 4532px;
-background: #0AB5F3;
-border-radius: 5px;
-text-align: center;
-cursor: pointer;
-align-items: center;
-outline: none;
-border: none;
-
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 12px 24px;
+  position: absolute;
+  width: 229px;
+  height: 52px;
+  left: 605px;
+  top: 4532px;
+  background: #0ab5f3;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  align-items: center;
+  outline: none;
+  border: none;
 }
-.btn{
-font-family: 'Roboto',sans-serif;
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 28px;
-color: #FFFFFF;
-padding-bottom: 5px;
-
+.btn {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  color: #ffffff;
+  padding-bottom: 5px;
 }
 .map {
   position: absolute;
@@ -961,30 +919,28 @@ padding-bottom: 5px;
   height: 138px;
   left: 100px;
   top: 4895px;
-  background: #FFFFFF;
+  background: #ffffff;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
   border-radius: 10px;
 }
-.manzil{
+.manzil {
   z-index: 100;
   position: static;
-width: 362px;
-height: 118px;
-left: 30px;
-top: 30px;
-flex: none;
-flex-grow: 0;
-margin: 0px 10px;
-font-size: 24px;
-
+  width: 362px;
+  height: 118px;
+  left: 30px;
+  top: 30px;
+  flex: none;
+  flex-grow: 0;
+  margin: 0px 10px;
+  font-size: 24px;
 }
-.manzil span{
-  font-family: 'Roboto',sans-serif;
-font-style: normal;
-font-weight: bolder;
-line-height: 150%;
-color: #0AB5F3;
-
+.manzil span {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bolder;
+  line-height: 150%;
+  color: #0ab5f3;
 }
 .aloqa {
   position: absolute;
@@ -1004,12 +960,12 @@ color: #0AB5F3;
 
   color: #0ab5f3;
 }
-.mappin{
+.mappin {
   position: absolute;
-width: 50px;
-height: 50px;
-left: 891px;
-top: 4815px;
+  width: 50px;
+  height: 50px;
+  left: 891px;
+  top: 4815px;
 }
 .footer {
   position: absolute;
@@ -1052,4 +1008,350 @@ top: 4815px;
   top: 0%;
   bottom: 0%;
   cursor: pointer;
+}
+/* RESPONSIVE FOR MOBILE  */
+@media screen and (max-width: 400px) {
+  .about {
+    width: 375px;
+  }
+  .line1 {
+    width: 30px;
+    left: 0;
+    top: 300px;
+    border: 2px solid #0ab5f3;
+  }
+  .text {
+    width: 154px;
+    height: 33px;
+    left: 35px;
+    top: 287px;
+    font-size: 24px;
+    line-height: 33px;
+  }
+  .content {
+    width: 345px;
+    height: 48px;
+    left: 15px;
+    top: 343px;
+    font-size: 16px;
+  }
+  .vector1 {
+    display: none;
+    width: 0;
+    height: 0;
+  }
+  .content1 {
+    width: 210px;
+    height: 66px;
+    left: 15px;
+    top: 415px;
+    font-size: 24px;
+    line-height: 33px;
+  }
+  .revenue {
+    left: 38px;
+    top: 480px;
+  }
+  .about_text2 {
+    width: 299px;
+    height: 72px;
+    left: 38px;
+    top: 770px;
+    font-size: 24px;
+    line-height: 150%;
+    text-align: center;
+  }
+  .chart_pana {
+    left: 38px;
+    top: 859px;
+  }
+  .content2 {
+    width: 290px;
+    height: 72px;
+    left: 43px;
+    top: 1160px;
+    font-size: 24px;
+    text-align: center;
+  }
+  .launching_pana {
+    left: 38px;
+    top: 1260px;
+  }
+  .content3 {
+    width: 344px;
+    height: 108px;
+    left: 16px;
+    top: 1580px;
+    font-size: 24px;
+    text-align: center;
+  }
+  .line2 {
+    width: 30px;
+    height: 0px;
+    left: 8px;
+    top: 1722px;
+    border: 2px solid #0ab5f3;
+  }
+  .undraw1 {
+    left: 46px;
+    top: 1770px;
+  }
+  .bizning_kurs {
+    width: 187px;
+    height: 33px;
+    left: 40px;
+    top: 1710px;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+  }
+  .rectangle1 {
+    width: 345px;
+    height: 233px;
+    left: 15px;
+    top: 1850px;
+  }
+  .frontend {
+    left: 134px;
+    top: 2015px;
+    font-size: 22px;
+  }
+  .polygon {
+    display: none;
+  }
+  .undraw2 {
+    left: 37px;
+    top: 2112px;
+  }
+  .rectangle2 {
+    width: 345px;
+    left: 18px;
+    top: 2180px;
+  }
+  .backend {
+    left: 139px;
+    top: 2340px;
+    font-size: 22px;
+    text-align: center;
+  }
+  .undraw3 {
+    width: 300px;
+    height: 163.87px;
+    left: 49px;
+    top: 2430px;
+  }
+  .rectangle3 {
+    width: 345px;
+    height: 217px;
+    left: 27px;
+    top: 2498px;
+  }
+  .sun_intel {
+    left: 115px;
+    top: 2636px;
+    font-size: 22px;
+    text-align: center;
+  }
+  .undraw4 {
+    left: 70px;
+    top: 2740px;
+  }
+  .rectangle4 {
+    width: 345px;
+    left: 15px;
+    top: 2813px;
+  }
+  .mobil_ilova {
+    left: 122px;
+    top: 2975px;
+    font-size: 22px;
+  }
+  .undraw5 {
+    left: 51px;
+    top: 3065px;
+  }
+  .rectangle5 {
+    width: 345px;
+    left: 15px;
+    top: 3140px;
+  }
+  .design {
+    left: 147px;
+    top: 3300px;
+    font-size: 22px;
+  }
+  .undraw6 {
+    left: 45px;
+    top: 3400px;
+  }
+  .rectangle6 {
+    width: 345px;
+    left: 15px;
+    top: 3480px;
+  }
+  .smm {
+    font-size: 22px;
+    left: 156px;
+    top: 3645px;
+  }
+
+  /* GROUP 3------------------- */
+  .line3{
+    width: 30px;
+height: 0px;
+left: 0px;
+top: 3760px;
+border: 2px solid #0ab5f3;
+
+  }
+  .jarayon{
+    width: 294px;
+    height: 33px;
+    left: 45px;
+    top: 3745px;
+    font-size: 24px;
+    line-height: 33px;
+  }
+  .rectangle7{
+    width: 345px;
+    height: 160px;
+    left: 15px;
+    top: 3795px; 
+   }
+  .num1{
+    left: 171px;
+    top: 3825px;
+    }
+    .bepul_dars{
+      width: 225px;
+      height: 24px;
+      left: 75px;
+      top: 3910px;
+    }
+    .ellipse2{
+      left: 170px;
+      top: 3935px;
+      transform: rotate(90deg);
+    }
+    .chevronright1{
+      left: 180px;
+      top: 3945px;
+      transform: rotate(90deg);
+    }
+  .rectangle8{
+    width: 345px;
+    height: 160px;
+    left: 15px;
+    top: 3963px;   
+  }
+  .num2{
+    left: 175px;
+    top: 3990px;
+      }
+    .maxsus_metod{
+      width: 255px;
+      height: 24px;
+      left: 65px;
+      top: 4070px;
+    }
+    .ellipse3{
+      left: 170px;
+      top: 4104px;
+      transform: rotate(90deg);
+    }
+    .chevronright2{
+      left: 180px;
+      top: 4115px;
+      transform: rotate(90deg);
+    }
+  .rectangle9{
+    width: 345px;
+    height: 160px;
+    left: 15px;
+    top: 4131px;   
+  }
+  .num3{
+    left: 176px;
+    top: 4155px;
+      }
+    .real_loyiha{
+      width: 182px;
+      height: 24px;
+      left: 97px;
+      top: 4239px;
+    }
+    .ellipse4{
+      left: 170px;
+      top: 4273px;
+      transform: rotate(90deg);
+    }
+    .chevronright3{
+      left: 180px;
+      top: 4283px;
+      transform: rotate(90deg);
+    }
+  .rectangle10{
+    width: 345px;
+    height: 160px;
+    left: 15px;
+    top: 4298px;   
+  }
+  .num4{
+    left: 176px;
+    top: 4320px;
+      }
+    .biznes{
+      width: 270px;
+    height: 24px;
+      left: 60px;
+      top: 4409px;
+    }
+    .ellipse5{
+      left: 170px;
+      top: 4440px;
+      transform: rotate(90deg);
+    }
+    .chevronright4{
+      left: 180px;
+      top: 4450px;
+      transform: rotate(90deg);
+    }
+    .rectangle11{
+      width: 345px;
+      height: 160px;
+      left: 15px;
+      top: 4465px;   
+    }
+    .num5{
+      left: 176px;
+      top: 4490px;
+        }
+      .imtihon{
+        width: 322px;
+       height: 24px;
+        left: 30px;
+        top: 4579px;
+      }
+
+      /* GROUP1 ---------------- */
+
+      .line4{
+        width: 60px;
+        left: -13px;
+        top: 4682px;
+        border: 3px solid #0AB5F3;
+      }
+      .birinchi_dars{
+        width: 266px;
+        height: 66px;
+        left: 55px;
+        top: 4652px;
+        font-size: 28px;
+        line-height: 33px;
+      }
+      .ismingiz,.input1,.input2,.input4,.aloqa,.kurs_yonalish,.tel_raqam,.input3,
+      .biz_haqida,.call_btn,.map,.frame1,.manzil,.mappin,.footer{
+        display: none;
+      }
+  
 }

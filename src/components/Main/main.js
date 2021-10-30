@@ -11,9 +11,9 @@ export default function Main() {
             <div className="text">
                 Farzandingiz kelajagini biz bilan quring!
             </div>
-            <div className="register">
+            <button className="register">
                 <p>Ro'yxatdan o'tish</p>
-            </div>
+            </button>
             <div className="line1">
              <img src={Line1} alt="line1"/>
             </div>

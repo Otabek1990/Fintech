@@ -37,10 +37,7 @@ export default function About() {
          - Moliya va IT sohalarining birlashmasi bo'lib, hozirgi kunda eng kerakli sohalardan biridir   
          </p>
             </div>
-
-      <div className="vector1">
-        <img src={Vector} alt="vector" />
-      </div>
+        <img  className="vector1" src={Vector} alt="vector" />
       <div className="content1">Fintech Laboratoriyasi bu...</div>
       <div className="revenue">
         <img alt="logo" src={Revenue} />

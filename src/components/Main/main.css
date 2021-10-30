@@ -21,6 +21,7 @@
   line-height: 180%;
 
   color: #1c1c1c;
+
 }
 .main .register {
   display: flex;
@@ -34,6 +35,14 @@
   top: 470px;
   background: #0ab5f3;
   border-radius: 5px;
+  outline: none;
+  border:none;
+  
+
+/* main */
+
+background: #0AB5F3;
+border-radius: 5px;
 }
 .main .register p {
   position: static;
@@ -51,6 +60,8 @@
   order: 0;
   flex-grow: 0;
   margin: 0px 10px;
+color: #FFFFFF;
+
 }
 .main .line1{
     position: absolute;
@@ -68,6 +79,8 @@ border: 1px solid #0AB5F3;
   left: 186px;
   top: 620px;
   display: flex;
+  /*  */
+
 }
 .components .facebook {
     left: 0%;
@@ -75,6 +88,8 @@ border: 1px solid #0AB5F3;
     top: 0%;
     bottom: 0%;
     cursor: pointer;
+    /*  */
+ 
 
 }
 .components .instagram {
@@ -92,4 +107,57 @@ border: 1px solid #0AB5F3;
     bottom: 0%;
     cursor: pointer;
 
+}
+/* RESPONSIVE FOR PHONE SIZE */
+@media screen  and (max-width:400px){
+  .main {
+width: 375px;
+height: 400px;
+top: 80px;
+  }
+  .main .text{
+    width: 218px;
+    height: 86px;
+    left: 15px;
+    top: 30px;
+    font-size: 18px;
+  }
+  .main .register{
+    width: 129px;
+height: 25px;
+left: 15px;
+top: 110px;
+align-items: center;
+  }
+  .main .register p{
+    width: 110px;
+height: 19px;
+font-size: 12px;
+line-height: 19px;
+margin-left: -15px;
+  }
+
+  .main .components{
+    left: 22px;
+    top: 162px;
+
+  }
+  .telegram{
+    width: 10px;
+    height: 12px;
+    margin-right: 3px;
+
+  }
+   .main .facebook{
+    width: 10px;
+    height: 12px;
+
+  }
+   .main .instagram{
+    width: 10px;
+    height: 12px;
+
+  }
+ 
+  
 }
