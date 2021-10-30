@@ -11,7 +11,7 @@ export default function Navbar() {
             <img  src={FintechLogo} alt="logo"/>
             </div>
             {window.innerWidth>400 ?
-            (<div>
+            (<div className="right">
                 <div className="nav_links">
             <Link to="/" className="lab">Laboratoriya</Link>
             <Link to="/" className="lab">Bizning kurslar</Link>

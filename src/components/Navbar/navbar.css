@@ -114,6 +114,9 @@ margin: 0px 10px;
     width: 375px;
     height: 80px;
   }
+  .right{
+    display: none;
+  }
   .navbar .fintech_logo img{
     width: 62.6px;
 height: 40px;
