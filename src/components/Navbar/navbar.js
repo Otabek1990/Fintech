@@ -4,7 +4,6 @@ import {Link} from "react-router-dom";
 import FintechLogo from "../../assets/fintechLogo.jpg";
 import Menu from "../../assets/menu.png"
 export default function Navbar() {
-    console.log(window.innerWidth)
     return (
         <div className="navbar">
             <div className="fintech_logo">

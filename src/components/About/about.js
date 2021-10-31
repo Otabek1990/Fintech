@@ -239,7 +239,7 @@ bilimlarni tekshirish</p>
 
       {/* RUYHATDAN OTISH BOLIMI----------------------------------- */}
     <button className="call_btn">
-       <p className="btn">Ro'yxatdan o'tish</p>
+       <span className="btn">Ro'yxatdan o'tish</span>
     </button>
       {/* MAP BOLIMII=----------------------- */}
       <div className="map"></div>
@@ -248,12 +248,13 @@ bilimlarni tekshirish</p>
       <p className="manzil">
       <span>Bizning manzil:</span> Toshkent sh, Bunyodkor shox ko'chasi 7G,
 <br/>
+<br/>
 <span>Mo'ljal:</span> TMC instituti
       </p>
       </div>
      <img className="mappin" src={MapPin} alt=""/>
       <div className="aloqa">
-        <p>+998(71) 203-88-00</p>
+        +998(71) 203-88-00
       </div>
       {/* FOOTER QISMI ----------- */}
       <div className="footer"></div>
