@@ -1013,19 +1013,19 @@
 @media only screen and (max-width:450px) {
   .about {
     width: 100%;
-    align-items: center;
+    
   }
   .line1 {
     width: 30px;
     left: 0;
-    top: 320px;
+    top: 360px;
     border: 2px solid #0ab5f3;
   }
   .text {
     width: 154px;
     height: 33px;
     left: 35px;
-    top: 305px;
+    top: 345px;
     font-size: 24px;
     line-height: 33px;
   }
@@ -1033,7 +1033,7 @@
     width: 345px;
     height: 48px;
     left: 15px;
-    top: 353px;
+    top: 393px;
     font-size: 16px;
   }
   .vector1 {
@@ -1045,38 +1045,38 @@
     width: 210px;
     height: 66px;
     left: 15px;
-    top: 415px;
+    top: 445px;
     font-size: 24px;
     line-height: 33px;
   }
   .revenue {
     left: 38px;
-    top: 480px;
+    top: 510px;
   }
   .about_text2 {
     width: 299px;
     height: 72px;
     left: 38px;
-    top: 770px;
+    top: 810px;
     font-size: 24px;
     line-height: 150%;
     text-align: center;
   }
   .chart_pana {
     left: 38px;
-    top: 859px;
+    top: 880px;
   }
   .content2 {
     width: 290px;
     height: 72px;
     left: 43px;
-    top: 1160px;
+    top: 1173px;
     font-size: 24px;
     text-align: center;
   }
   .launching_pana {
     left: 38px;
-    top: 1260px;
+    top: 1275px;
   }
   .content3 {
     width: 344px;
@@ -1090,7 +1090,7 @@
     width: 30px;
     height: 0px;
     left: 13px;
-    top: 1724px;
+    top: 1734px;
     border: 2px solid #0ab5f3;
   }
 
@@ -1098,7 +1098,7 @@
     width: 187px;
     height: 33px;
     left: 42px;
-    top: 1710px;
+    top: 1720px;
     font-size: 24px;
     line-height: 33px;
     text-align: center;
@@ -1277,10 +1277,10 @@ border: 2px solid #0ab5f3;
     top: 4155px;
       }
     .real_loyiha{
-      width: 182px;
+      width: 212px;
       height: 24px;
       left: 97px;
-      top: 4239px;
+      top: 4235px;
     }
     .ellipse4{
       left: 170px;
@@ -1303,10 +1303,10 @@ border: 2px solid #0ab5f3;
     top: 4320px;
       }
     .biznes{
-      width: 270px;
+      width: 310px;
     height: 24px;
-      left: 60px;
-      top: 4409px;
+      left: 40px;
+      top: 4404px;
     }
     .ellipse5{
       left: 170px;
@@ -1332,7 +1332,7 @@ border: 2px solid #0ab5f3;
         width: 322px;
        height: 24px;
         left: 35px;
-        top: 4579px;
+        top: 4572px;
       }
 
       /* GROUP1 ---------------- */
