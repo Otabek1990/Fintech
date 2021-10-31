@@ -109,7 +109,7 @@ border: 1px solid #0AB5F3;
 
 }
 /* RESPONSIVE FOR PHONE SIZE */
-@media screen  and (max-width:450px){
+@media only screen  and (max-width:450px){
   .main {
 width: 375px;
 height: 400px;
