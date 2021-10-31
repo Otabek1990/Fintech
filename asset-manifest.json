@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Fintech/static/css/main.725657d2.chunk.css",
+    "main.css": "/Fintech/static/css/main.88f09042.chunk.css",
     "main.js": "/Fintech/static/js/main.bb6963ee.chunk.js",
     "main.js.map": "/Fintech/static/js/main.bb6963ee.chunk.js.map",
     "runtime-main.js": "/Fintech/static/js/runtime-main.4ba85ce1.js",
@@ -8,7 +8,7 @@
     "static/js/2.0698e3e9.chunk.js": "/Fintech/static/js/2.0698e3e9.chunk.js",
     "static/js/2.0698e3e9.chunk.js.map": "/Fintech/static/js/2.0698e3e9.chunk.js.map",
     "index.html": "/Fintech/index.html",
-    "static/css/main.725657d2.chunk.css.map": "/Fintech/static/css/main.725657d2.chunk.css.map",
+    "static/css/main.88f09042.chunk.css.map": "/Fintech/static/css/main.88f09042.chunk.css.map",
     "static/js/2.0698e3e9.chunk.js.LICENSE.txt": "/Fintech/static/js/2.0698e3e9.chunk.js.LICENSE.txt",
     "static/media/Chartspana1.68fbce6f.png": "/Fintech/static/media/Chartspana1.68fbce6f.png",
     "static/media/Launchingpana1.bbdaa574.png": "/Fintech/static/media/Launchingpana1.bbdaa574.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ba85ce1.js",
     "static/js/2.0698e3e9.chunk.js",
-    "static/css/main.725657d2.chunk.css",
+    "static/css/main.88f09042.chunk.css",
     "static/js/main.bb6963ee.chunk.js"
   ]
 }
