@@ -1012,19 +1012,20 @@
 /* RESPONSIVE FOR MOBILE  */
 @media only screen and (max-width:450px) {
   .about {
-    width: 375px;
+    width: 100%;
+    align-items: center;
   }
   .line1 {
     width: 30px;
     left: 0;
-    top: 300px;
+    top: 320px;
     border: 2px solid #0ab5f3;
   }
   .text {
     width: 154px;
     height: 33px;
     left: 35px;
-    top: 287px;
+    top: 305px;
     font-size: 24px;
     line-height: 33px;
   }
@@ -1032,7 +1033,7 @@
     width: 345px;
     height: 48px;
     left: 15px;
-    top: 343px;
+    top: 353px;
     font-size: 16px;
   }
   .vector1 {
@@ -1088,44 +1089,45 @@
   .line2 {
     width: 30px;
     height: 0px;
-    left: 8px;
-    top: 1722px;
+    left: 13px;
+    top: 1724px;
     border: 2px solid #0ab5f3;
   }
-  .undraw1 {
-    left: 46px;
-    top: 1770px;
-  }
+
   .bizning_kurs {
     width: 187px;
     height: 33px;
-    left: 40px;
+    left: 42px;
     top: 1710px;
     font-size: 24px;
     line-height: 33px;
     text-align: center;
   }
+  .undraw1 {
+    left: 51px;
+    top: 1767px;
+  }
   .rectangle1 {
     width: 345px;
     height: 233px;
-    left: 15px;
+    left: 27px;
     top: 1850px;
   }
   .frontend {
-    left: 134px;
-    top: 2015px;
+    left: 140px;
+    top: 2012px;
     font-size: 22px;
   }
   .polygon {
     display: none;
   }
   .undraw2 {
-    left: 37px;
+    left: 47px;
     top: 2112px;
   }
   .rectangle2 {
     width: 345px;
-    left: 18px;
+    left: 27px;
     top: 2180px;
   }
   .backend {
@@ -1153,12 +1155,12 @@
     text-align: center;
   }
   .undraw4 {
-    left: 70px;
+    left: 75px;
     top: 2740px;
   }
   .rectangle4 {
     width: 345px;
-    left: 15px;
+    left: 25px;
     top: 2813px;
   }
   .mobil_ilova {
@@ -1167,12 +1169,12 @@
     font-size: 22px;
   }
   .undraw5 {
-    left: 51px;
+    left: 61px;
     top: 3065px;
   }
   .rectangle5 {
     width: 345px;
-    left: 15px;
+    left: 25px;
     top: 3140px;
   }
   .design {
@@ -1181,12 +1183,12 @@
     font-size: 22px;
   }
   .undraw6 {
-    left: 45px;
+    left: 56px;
     top: 3400px;
   }
   .rectangle6 {
     width: 345px;
-    left: 15px;
+    left: 26px;
     top: 3480px;
   }
   .smm {
@@ -1199,7 +1201,7 @@
   .line3{
     width: 30px;
 height: 0px;
-left: 0px;
+left: 10px;
 top: 3760px;
 border: 2px solid #0ab5f3;
 
@@ -1215,7 +1217,7 @@ border: 2px solid #0ab5f3;
   .rectangle7{
     width: 345px;
     height: 160px;
-    left: 15px;
+    left: 26px;
     top: 3795px; 
    }
   .num1{
@@ -1241,7 +1243,7 @@ border: 2px solid #0ab5f3;
   .rectangle8{
     width: 345px;
     height: 160px;
-    left: 15px;
+    left: 26px;
     top: 3963px;   
   }
   .num2{
@@ -1267,7 +1269,7 @@ border: 2px solid #0ab5f3;
   .rectangle9{
     width: 345px;
     height: 160px;
-    left: 15px;
+    left: 26px;
     top: 4131px;   
   }
   .num3{
@@ -1293,7 +1295,7 @@ border: 2px solid #0ab5f3;
   .rectangle10{
     width: 345px;
     height: 160px;
-    left: 15px;
+    left: 26px;
     top: 4298px;   
   }
   .num4{
@@ -1319,7 +1321,7 @@ border: 2px solid #0ab5f3;
     .rectangle11{
       width: 345px;
       height: 160px;
-      left: 15px;
+      left: 26px;
       top: 4465px;   
     }
     .num5{
@@ -1329,7 +1331,7 @@ border: 2px solid #0ab5f3;
       .imtihon{
         width: 322px;
        height: 24px;
-        left: 30px;
+        left: 35px;
         top: 4579px;
       }
 
@@ -1337,7 +1339,7 @@ border: 2px solid #0ab5f3;
 
       .line4{
         width: 60px;
-        left: -13px;
+        left: -10px;
         top: 4682px;
         border: 3px solid #0AB5F3;
       }

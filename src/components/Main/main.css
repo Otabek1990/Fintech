@@ -111,7 +111,7 @@ border: 1px solid #0AB5F3;
 /* RESPONSIVE FOR PHONE SIZE */
 @media only screen  and (max-width:450px){
   .main {
-width: 375px;
+width: 100%;
 height: 400px;
 top: 80px;
   }
@@ -119,14 +119,14 @@ top: 80px;
     width: 218px;
     height: 86px;
     left: 15px;
-    top: 30px;
+    top: 50px;
     font-size: 18px;
   }
   .main .register{
     width: 129px;
 height: 25px;
 left: 15px;
-top: 110px;
+top: 130px;
 align-items: center;
   }
   .main .register p{
@@ -139,7 +139,7 @@ margin-left: -15px;
 
   .main .components{
     left: 22px;
-    top: 162px;
+    top: 190px;
 
   }
   .telegram{
